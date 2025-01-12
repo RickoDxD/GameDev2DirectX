@@ -1,0 +1,11 @@
+﻿  FrameResource.cpp
+  QuatAppStart.cpp
+E:\Project\Ricko 2025\GameDev2DirectX\InitializeDirect3DTemplate\InitializeDirect3DTemplate\Solution\InitializeDirect3D\QuatAppStart.cpp(263,90): error C2102: '&' requires l-value
+E:\Project\Ricko 2025\GameDev2DirectX\InitializeDirect3DTemplate\InitializeDirect3DTemplate\Solution\InitializeDirect3D\QuatAppStart.cpp(263,63): error C2102: '&' requires l-value
+E:\Project\Ricko 2025\GameDev2DirectX\InitializeDirect3DTemplate\InitializeDirect3DTemplate\Solution\InitializeDirect3D\QuatAppStart.cpp(255,72): error C2102: '&' requires l-value
+E:\Project\Ricko 2025\GameDev2DirectX\InitializeDirect3DTemplate\InitializeDirect3DTemplate\Solution\InitializeDirect3D\QuatAppStart.cpp(286,72): error C2102: '&' requires l-value
+E:\Project\Ricko 2025\GameDev2DirectX\InitializeDirect3DTemplate\InitializeDirect3DTemplate\Solution\InitializeDirect3D\QuatAppStart.cpp(420,57): error C2102: '&' requires l-value
+E:\Project\Ricko 2025\GameDev2DirectX\InitializeDirect3DTemplate\InitializeDirect3DTemplate\Solution\InitializeDirect3D\QuatAppStart.cpp(421,57): error C2102: '&' requires l-value
+E:\Project\Ricko 2025\GameDev2DirectX\InitializeDirect3DTemplate\InitializeDirect3DTemplate\Solution\InitializeDirect3D\QuatAppStart.cpp(422,61): error C2102: '&' requires l-value
+E:\Project\Ricko 2025\GameDev2DirectX\InitializeDirect3DTemplate\InitializeDirect3DTemplate\Solution\InitializeDirect3D\QuatAppStart.cpp(1053,69): error C2102: '&' requires l-value
+E:\Project\Ricko 2025\GameDev2DirectX\InitializeDirect3DTemplate\InitializeDirect3DTemplate\Solution\InitializeDirect3D\QuatAppStart.cpp(1054,60): error C2102: '&' requires l-value
